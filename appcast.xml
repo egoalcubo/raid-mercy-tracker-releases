@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>Mercy Tracker Companion</title>
+    <title>RSL Mercy Tracker</title>
     <link>https://raw.githubusercontent.com/egoalcubo/raid-mercy-tracker-releases/main/appcast.xml</link>
     <description>Actualizaciones del companion nativo de Mercy Tracker</description>
     <language>es</language>
