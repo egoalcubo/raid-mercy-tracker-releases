@@ -6,6 +6,14 @@
     <description>Actualizaciones del companion nativo de Mercy Tracker</description>
     <language>es</language>
     <item>
+      <title>Versión 1.0.23</title>
+      <pubDate>Sun, 02 Aug 2026 07:36:28 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/egoalcubo/raid-mercy-tracker-releases/releases/download/v23/RSLMercyTracker-1.0.23.dmg" sparkle:edSignature="AXKQTd3UnHGt5riRX990ZuvSxPfIaRvFQ3sS+TQvtn31DWOtvzHDlNu1SZjrzegtYMPt6UrzMtQkhyX7I+GaDw==" length="1446334" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Versión 1.0.22</title>
       <pubDate>Sun, 02 Aug 2026 07:11:40 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
@@ -76,14 +84,6 @@
       <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/egoalcubo/raid-mercy-tracker-releases/releases/download/v14/RSLMercyTracker-1.0.14.dmg" sparkle:edSignature="njkphCGtWt4qjexTRp3omqMwGjoJJ+UA0uRaLUewo1Do/u7zCfXCPerzAFLwh4pn6PZQKyVBJW9LqtZ6zA0iBg==" length="1432521" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Versión 1.0.13</title>
-      <pubDate>Fri, 31 Jul 2026 16:05:39 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/egoalcubo/raid-mercy-tracker-releases/releases/download/v13/RSLMercyTracker-1.0.13.dmg" sparkle:edSignature="ZOtKRls+uwwgFJMUOpiXKr91nIlEzytHmDMkq/j4gaM78NVDL6DOuzz05Rg5oyrUOQFiaYW4Zl5aMttcxmpRBw==" length="1432358" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
